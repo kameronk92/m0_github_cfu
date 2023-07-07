@@ -1,0 +1,4 @@
+- git push
+- git commit -m
+- git add
+- git status
